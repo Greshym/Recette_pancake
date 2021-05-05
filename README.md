@@ -2,7 +2,7 @@
 
 ## Links
 
-<a href="index.html">Voici la recette de pancake</a>
+<a href="[index.html](https://greshym.github.io/Recette_pancake/)">Voici la recette de pancake</a>
 
 ## Projet
 
