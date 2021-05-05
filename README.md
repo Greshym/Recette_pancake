@@ -2,7 +2,7 @@
 
 ## Links
 
-<a href="html/index.html">Voici la recette de pancake</a>
+<a href="index.html">Voici la recette de pancake</a>
 
 ## Projet
 
