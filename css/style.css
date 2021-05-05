@@ -1,0 +1,68 @@
+html, body, div.red, h1, img {
+    display : flex;
+}
+
+span.ptit, h2, span.gros {
+    color: #f02425;
+}
+
+h3, h2, h1 {
+    text-align: center;
+}
+
+span.gros, h1 {
+    font-weight: bold;
+}
+
+html, div.red {
+    justify-content: center;
+}
+
+html, div.red {
+    align-self: center;
+    align-items: center;
+}
+
+div.red, img {
+    align-self: center;
+}
+
+html {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+body {
+    padding: 20px;
+    width: 40%;
+    background-color: #fff3db;
+    flex-direction: column;
+    justify-items: flex-start;
+}
+
+div.red {
+    width: 90%;
+    background-color: #f02425;
+    height: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    text-transform: uppercase;
+}
+
+h3 {
+    text-decoration-line: underline;
+    font-weight: lighter;
+}
+
+p {
+    color: rgb(107, 107, 107);
+}
+
+img {
+    padding-top: 18px;
+    max-width: 1280px;
+    width: 90%;
+}
